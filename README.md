@@ -30,6 +30,9 @@ Practicing creative layout and components ideas using mainly css
   - DOM manipulation using vanilla JS
   - extra: audio using eventlisteners 
   
+  ![Eyeballs movement - Edited](https://user-images.githubusercontent.com/44209758/71731564-d9247680-2e23-11ea-8d37-27084b437549.gif)
+
+  
 
   
   
