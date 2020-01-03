@@ -24,3 +24,13 @@ Practicing creative layout and components ideas using mainly css
 
 ![CSS Leaves animation effects - Edited](https://user-images.githubusercontent.com/44209758/71597123-c27ad880-2b20-11ea-946b-ad794e315d81.gif)
 
+### eyeballs movement :eyes:
+  - CSS pseudoelements/pseudoclasses
+  - transformation (rotate)
+  - DOM manipulation using vanilla JS
+  - extra: audio using eventlisteners 
+  
+
+  
+  
+
