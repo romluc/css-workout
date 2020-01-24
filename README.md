@@ -32,9 +32,11 @@ Practicing creative layout and components ideas using mainly css
   
   ![Eyeballs movement - Edited](https://user-images.githubusercontent.com/44209758/71731564-d9247680-2e23-11ea-8d37-27084b437549.gif)
 
-### neumorphism icons style with glowing effects on hover
+### neumorphism icons style with glowing effects on hover 
 
   
+![Neumorphism Icon Hover Effects](https://user-images.githubusercontent.com/44209758/73093473-5ab87300-3ebd-11ea-8349-867748e10a16.gif)
+
 
   
   
